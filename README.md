@@ -1,1 +1,1 @@
-# Advanced_Machine_Learning_Case_Study
+# Machine_Learning_Case_Study
